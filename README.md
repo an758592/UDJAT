@@ -25,5 +25,5 @@
 - Some streams may stop working due to changes in URLs.
 
 ## 🤝 Contribution
-- You can add new streams by submitting **Pull Requests**.
-- If you encounter any issues, feel free to open an **Issue**.
+- You can add new streams by submitting **[Pull Requests](https://github.com/an758592/UDJAT/pulls)**.
+- If you encounter any issues, feel free to open an **[Issue](https://github.com/an758592/UDJAT/issues)**.
