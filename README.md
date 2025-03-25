@@ -17,7 +17,7 @@
    ```
 2. Open **VLC Media Player**.
 3. From the **Media** menu, select **Open File...**.
-4. Choose any `.m3u` file from the `playlists` folder.
+4. Choose the `.m3u` file.
 5. Enjoy live streaming!
 
 ## 🛠 Requirements
