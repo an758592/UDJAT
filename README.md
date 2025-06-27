@@ -1,7 +1,5 @@
 # UDJAT - Camera Streams via VLC
 
-![UDJAT Logo](https://github.com/an758592/UDJAT/blob/main/UDJAT.svg)
-
 ## 📌 Overview
 **UDJAT** is a repository containing playlists for multiple video streams from surveillance cameras, easily playable using **VLC Media Player**.
 
