@@ -1,4 +1,4 @@
-# 🎥 UDJAT - Camera Streams via VLC
+# UDJAT - Camera Streams via VLC
 
 ![UDJAT Logo](https://github.com/an758592/UDJAT/blob/main/UDJAT.svg)
 
@@ -24,7 +24,7 @@
 - **VLC Media Player** (Download [here](https://www.videolan.org/vlc/)).
 
 ## 📌 Notes
-- Some streams may stop working due to changes in URLs.
+- Some streams may stop working due to changes in IPs.
 
 ## 🤝 Contribution
 - You can add new streams by submitting **[Pull Requests](https://github.com/an758592/UDJAT/pulls)**.
